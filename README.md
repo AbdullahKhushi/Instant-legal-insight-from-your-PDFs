@@ -53,5 +53,5 @@ This project is under the MIT License.
 
 # Author
 Abdullah Khushi  
-Email: abdullah.khushi.devtracks@gmail.com
+Email: abdullahkhushi0305@gmail.com
 Repository: git@github.com:AbdullahKhushi/Instant-legal-insight-from-your-PDFs.git
